@@ -1,0 +1,16 @@
+{
+  "name": "CRUD",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Rujal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mangodb": "^1.0.0",
+    "mongoose": "^5.12.9",
+    "nodemon": "^2.0.7"
+  }
+}
